@@ -1,0 +1,26 @@
+{
+  "name": "blogger-source",
+  "version": "1.0.0",
+  "description": "Collection source for my blog",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyazincahya/blogger-source.git"
+  },
+  "keywords": [
+    "source",
+    "blogger",
+    "blog",
+    "js",
+    "css",
+    "link"
+  ],
+  "author": "k4ng <cahyadyazin@yahoo.com> (http://www.kang-cahya.com)",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/dyazincahya/blogger-source/issues"
+  },
+  "homepage": "https://github.com/dyazincahya/blogger-source#readme"
+}
